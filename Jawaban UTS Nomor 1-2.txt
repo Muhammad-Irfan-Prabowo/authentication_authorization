@@ -1,0 +1,23 @@
+Nama 	: Muhammmad Irfan Prabowo
+Kelas 	: IF22G
+NIM 	: 22416255201208
+
+1.Apa yang dimaksud dengan Framework pada pengembangan aplikasi?
+= Framework adalah sebuah konsep dalam pemrograman web yang digunakan sebagai kerangka kerja dalam proses pengembangan aplikasi.
+Penggunaan framework ini sangat mempermudah programmer dalam melakukan pengembangan websitenya.
+Selain mempermudah penggunaan framework juga dapat mempermudah pengembangan dalam website yang sedang dibangun.
+Contoh framework yang ada dan sering digunakan adalah CSS,JS & framework PHP.
+
+2. Sebutkan Tema Proyek yang digarap?
+= Proyek yang sedang digarap oleh kelompok saya adalah mengenai website administrasi sekolah dimana kami mengambil sampling ke sekolah SMK TI Muhammadiyah Cikampek.
+
+3.Sebutkan anggota dari proyek yang digarap, berikut dengan jobdesk masing-masing anggota!
+= Fadri Tri Hartanto = Programmer front end
+  Feri Andrianto = Programmer Back End
+  Muhammad Irfan Prabowo = Penyusun Laporan
+
+4. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung!
+= Permasalahan yang akan kami ambil sebelumnya adalah mengenai sistem pendafatarn online peserta didik baru di sekolah tersebut.
+Namun,setelah kami melakuakn wawancara dengan narasumber ternyata sistem pendafataran peserta didik baru atau PPDB sudah tersedia.
+Maka kami mengambil opsi yang memang belum tersedia di sekolah tersebut yaitu mengenai surat menyurat untuk warga sekolah maupun surat penugasan untuk guru.
+Semoga project ini dapat kami selesaikan dan dapat membantu operasional sekolah tersebut.

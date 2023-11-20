@@ -19,7 +19,7 @@ if(isset($_POST['submit'])) {
             if($_SESSION['role'] == 'admin'){
                 header('Location:./../admin.php');
             }else{
-                header('Location:./../profile.php');
+                header('Location:./../show.php');
             }
 
            
